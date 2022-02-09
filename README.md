@@ -10,7 +10,7 @@ Python, DRF, Data Science, Frappe Framework.
 
 ### What I'm focusing on 👨‍💻
 
-Currently imporoving my **Flutter** skills.
+Currently improving my **Flutter** skills.
 
 
 ### Find me elsewhere 🌎
